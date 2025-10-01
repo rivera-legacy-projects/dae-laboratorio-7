@@ -20,4 +20,8 @@ Este proyecto implementa un sistema de quiz/cuestionarios utilizando Django REST
 
 ### Aplicacion hecho en django rest framework 
 
-![Modelo Quiz](./capturas/aplicacion_funcional.png)
+![Aplicacion Quiz](./capturas/aplicacion_funcional.png)
+
+### Aplicacion extendida con preguntas y opciones
+
+![Response Json 1](./capturas/response_json_1.png)

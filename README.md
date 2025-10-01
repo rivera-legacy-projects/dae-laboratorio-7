@@ -22,6 +22,12 @@ Este proyecto implementa un sistema de quiz/cuestionarios utilizando Django REST
 
 ![Aplicacion Quiz](./capturas/aplicacion_funcional.png)
 
+# Laboratorio 7: Sistema de Quiz, questions y choices con Django REST Framework
+
+## 📋 Descripción
+
+En este laboratorio hemos agregado preguntas y opciones para los examenes.
+
 ### Aplicacion extendida con preguntas y opciones
 
 ![Response Json 1](./capturas/response_json_1.png)
